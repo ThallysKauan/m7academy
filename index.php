@@ -14,7 +14,7 @@
     <!-- Fim Slider -->
 
     <!-- Sass Anderson -->
-    <link rel="stylesheet" href="./scss/slider.css">
+    <link rel="stylesheet" href="./scss/slider. css">
     <!-- Sass Fim Anderson -->
 
 
